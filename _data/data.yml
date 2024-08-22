@@ -4,11 +4,11 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Lucas Ramos Paiva
+    name: Lucas Paiva
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -45,6 +45,9 @@ sidebar:
         - idiom: English
           level: Fluent
 
+        - idiom: Dutch
+          level: Duolingo
+
     interests:
       title: Interests
       info:
@@ -60,7 +63,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      From a background in Languages and Literature, I started working in IT during my university years, supporting online courses on Moodle and transposing media into websites. In France, I continued to study technology and obtained a diploma in Programming from the University of Nantes. 
+      From a background in Languages and Literature, I started working in IT during my university years, supporting online courses on Moodle and transposing media into websites. In France, I continued to study technology and obtained a diploma in Développement et Intégration de Progiciels from the Université de Nantes. 
 education:
     title: Education
     info:
@@ -80,7 +83,6 @@ education:
           Bachelor of Arts degree:
             - Teaching
             - Translation
-            - Proofreading
             - Linguistics
 
 experiences:
@@ -124,7 +126,7 @@ experiences:
             - Teaching Reading Comprehension in French
 
 certifications:
-      title: Front-End Development @ FrontIn BH
+      title: Certifications
       list:
         - name: FrontIn BH
           start: 2012
@@ -199,12 +201,21 @@ skills:
     toolset:
       - name: PHP
         level: 85%
+        
+      - name: PrestaShop
+        level: 85%
+
+      - name: WordPress
+        level: 85%
 
       - name: Python
         level: 65%
 
       - name: Javascript & jQuery
         level: 80%
+
+      - name: Webpack
+        level: 65%
 
       - name: HTML5 & CSS
         level: 95%
@@ -214,8 +225,5 @@ skills:
 
       - name: Linux (Debian based distros)
         level: 70%
-
-      - name: Figma
-        level: 60%
 
 footer: >
