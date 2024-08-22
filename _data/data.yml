@@ -171,7 +171,7 @@ oss:
         link: "https://github.com/Oksydan/falcon/pull/80"
         tagline: "PrestaShop theme"
 
-# publications:
+publications:
 #     title: Publications
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
@@ -218,5 +218,5 @@ skills:
       - name: Figma
         level: 60%
 
-# footer: >
-#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
