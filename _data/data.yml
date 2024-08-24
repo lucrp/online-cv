@@ -13,8 +13,8 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: ramoswebdev@gmail.com
-    phone: +33 6 23 04 34 39
+    email:
+    phone:
     timezone: Europe/Paris # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship: Brazilian
     website: https://skoba.odoo.com/ # Include the full website URL, including "http://" or "https://".
